@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-<!--
+<Hi, I’m Tejus 👋  
+Aspiring Software Developer  
+Learning React, Blockchain & AI/ML  
+
+🔹 Beginner Solidity Projects  
+🔹 DSA Practice on LeetCode  
+🔹 Open to internships
+!--
 **tejusjaiswal13-dev/tejusjaiswal13-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -67,8 +67,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email-here
-- 💼 LinkedIn: your-linkedin-here
+- 📧 Email: tejusjaiswal13@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/tejus-jaiswal-120182386
 
 
 ---

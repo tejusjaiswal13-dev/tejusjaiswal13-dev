@@ -10,4 +10,4 @@ Learning React, Blockchain & AI/ML
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tejusjaiswal13-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tejusjaiswal13-dev&theme=highcontrast)](https://git.io/streak-stats)

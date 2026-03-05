@@ -1,76 +1,71 @@
 <h1 align="center">Hi 👋, I'm Tejus Jaiswal</h1>
-<h3 align="center">Full Stack Developer | Blockchain Enthusiast | Hackathon Builder</h3>
+<h3 align="center">Full Stack Developer | Web3 Enthusiast | Building Cool Things 🚀</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Solana & Blockchain Development**
-- 💻 I build **Full Stack Web Applications**
-- 🛠️ Worked on legal-tech platform for **PIL filing**
-- ⚡ Love building projects for hackathons
-- 🎯 Goal: Build scalable tech products that solve real-world problems
+- 🔭 Currently working on **Web Development & Blockchain Projects**
+- 🌱 Learning **Solana & Smart Contracts**
+- 💬 Ask me about **React, Firebase, APIs, GitHub**
+- ⚡ Fun fact: I love building real-world problem solving apps
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/tejusjaiswal13-dev" target="blank">
+<img align="center" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-- JavaScript
-- TypeScript
-- C++
-- HTML5
-- CSS3
-
-### ⚙️ Frameworks & Tools
-- React
-- Next.js
-- Node.js
-- Firebase
-- Git & GitHub
-- Vercel
-
-### 🌐 Currently Exploring
-- Solana Blockchain
-- Smart Contracts
-- Web3 Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,git,github,solana" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejusjaiswal13-dev&show_icons=true&theme=radical" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=tejusjaiswal13-dev&theme=radical" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tejusjaiswal13-dev&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejusjaiswal13-dev&layout=compact&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejusjaiswal13-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejusjaiswal13-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 GitHub Trophies
 
-🔹 Legal PIL Filing Website  
-🔹 Business Websites for Clients  
-🔹 Blockchain Learning Projects  
-🔹 Hackathon Builds  
-
-(Adding pinned repos below will make this section shine ✨)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tejusjaiswal13-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Contribution Graph
 
-- 📧 Email: tejusjaiswal13@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/tejus-jaiswal-120182386
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tejusjaiswal13-dev&theme=tokyo-night" />
+</p>
 
 ---
 
-<h3 align="center">🔥 Consistency Beats Motivation 🔥</h3>
+## 🚀 Quote I Believe In
+
+> "Consistency beats motivation."
+
+---
+
+⭐ From [tejusjaiswal13-dev](https://github.com/tejusjaiswal13-dev)

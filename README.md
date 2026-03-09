@@ -133,17 +133,6 @@ I'm **Tejus** — an aspiring software developer from India with a sharp focus o
 
 <br/>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejusjaiswal13-dev&theme=tokyonight&no-frame=true&margin-w=8&column=6" width="100%"/>
-</div>
-
-<br/>
-
----
 
 ## 📈 Activity
 

@@ -4,9 +4,6 @@
 
 <br/>
 
-<div align="center">
-
-
 </div>
 
 <br/>
@@ -114,32 +111,6 @@ I work across the full stack (React / TypeScript → Node.js / Firebase) and am 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejusjaiswal13-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejusjaiswal13-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="165"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tejusjaiswal13-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" width="55%"/>
-</div>
-
-<br/>
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejusjaiswal13-dev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
@@ -147,3 +118,5 @@ I work across the full stack (React / TypeScript → Node.js / Firebase) and am 
   <sub>Consistency > Motivation · Build. Break. Learn. Repeat.</sub>
 
 </div>
+<div align="center">
+

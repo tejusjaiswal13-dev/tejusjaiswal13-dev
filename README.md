@@ -6,10 +6,6 @@
 
 <div align="center">
 
-```
-  Building the future, one commit at a time.
-  React · TypeScript · Solana · Firebase · Node.js
-```
 
 </div>
 
@@ -41,13 +37,14 @@
 
 ## ⚡ Who Am I
 
-I'm **Tejus** — an aspiring software developer from India with a sharp focus on building real products. I work across the full stack, from pixel-perfect UIs in React to smart contracts in Solidity. Currently expanding into **Solana**, **AI/ML**, and **Blockchain** while staying obsessed with clean code and meaningful products.
+I'm **Tejus** — an aspiring software developer from India focused on building real products.  
+I work across the full stack (React / TypeScript → Node.js / Firebase) and am currently expanding into **Solana**, **AI/ML**, and **Blockchain**.
 
-- 🔭 &nbsp; Currently building: **full-stack web apps + Web3 projects**
-- 🌱 &nbsp; Exploring: **Solana development & machine learning**
-- 💡 &nbsp; Interests: **startups, open source, developer tooling**
-- 📬 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/tejus-jaiswal-120182386) or [X](https://x.com/TejusJaiswal)
-- 🤝 &nbsp; Open to: **internships, freelance, and collaboration**
+- 🔭 Currently building: **full-stack web apps + Web3 projects**
+- 🌱 Exploring: **Solana development & machine learning**
+- 💡 Interests: **startups, open source, developer tooling**
+- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/tejus-jaiswal-120182386) or [X](https://x.com/TejusJaiswal)
+- 🤝 Open to: **internships, freelance, and collaboration**
 
 <br/>
 
@@ -59,15 +56,15 @@ I'm **Tejus** — an aspiring software developer from India with a sharp focus o
   <tr>
     <td valign="top" width="33%">
       <h4>Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" />
     </td>
     <td valign="top" width="33%">
       <h4>Backend & DB</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=nodejs,firebase,express&theme=dark" />
     </td>
     <td valign="top" width="33%">
       <h4>Blockchain & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=solidity,git,github,vscode&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=solidity,git,github,vscode,linux&theme=dark" />
     </td>
   </tr>
 </table>
@@ -82,14 +79,14 @@ I'm **Tejus** — an aspiring software developer from India with a sharp focus o
   <tr>
     <td width="50%" valign="top">
       <h3>📱 janvichar_V1</h3>
-      <p>A full-stack <strong>TypeScript + React</strong> web application focused on clean architecture and real-world usability. Built with modern tooling and production-quality code.</p>
+      <p>Full-stack <strong>TypeScript + React / Next.js</strong> application for collaborative Public Interest Litigation (PIL) drafting & tracking in India. Built with Firebase + Gemini AI.</p>
       <a href="https://github.com/tejusjaiswal13-dev/janvichar_V1">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🔊 Echo</h3>
-      <p>A <strong>TypeScript</strong> project exploring real-time communication patterns and reactive UI design. Clean, fast, and built for scale.</p>
+      <p>Modern AI-powered sentiment analysis app. Real-time emotional tone detection using <strong>Google Gemini</strong> (with Hugging Face fallback). Built with Next.js + TypeScript + Tailwind.</p>
       <a href="https://github.com/tejusjaiswal13-dev/Echo">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -98,14 +95,14 @@ I'm **Tejus** — an aspiring software developer from India with a sharp focus o
   <tr>
     <td width="50%" valign="top">
       <h3>⛓️ SimpleStorage</h3>
-      <p>My entry point into <strong>blockchain development</strong> — a Solidity smart contract for on-chain data storage, written and deployed as part of my Web3 learning journey.</p>
+      <p>Entry point into <strong>blockchain development</strong> — a clean Solidity smart contract for on-chain data storage, written and deployed as part of my Web3 learning journey.</p>
       <a href="https://github.com/tejusjaiswal13-dev/SimpleStorage">
         <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 More Coming Soon</h3>
-      <p>Currently working on new projects in <strong>Solana</strong> and <strong>AI/ML</strong>. Watch this space — something exciting is being built.</p>
+      <p>Currently working on new projects in <strong>Solana</strong> and <strong>AI/ML</strong>. Watch this space.</p>
       <a href="https://github.com/tejusjaiswal13-dev?tab=repositories">
         <img src="https://img.shields.io/badge/All%20Repos-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
@@ -133,7 +130,6 @@ I'm **Tejus** — an aspiring software developer from India with a sharp focus o
 
 <br/>
 
-
 ## 📈 Activity
 
 <div align="center">
@@ -148,6 +144,6 @@ I'm **Tejus** — an aspiring software developer from India with a sharp focus o
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-  <sub>Consistency > Motivation &nbsp;·&nbsp; Build. Break. Learn. Repeat.</sub>
+  <sub>Consistency > Motivation · Build. Break. Learn. Repeat.</sub>
 
 </div>
